@@ -208,7 +208,7 @@ button:hover {
 
 .flower--1 .flower__line {
   height: 40vmin;
-  -webkit-animation-delay: 0.3s;76````
+  -webkit-animation-delay: 0.3s;
   animation-delay: 0.3s;
 }
 .flower--1 .flower__line__leaf--1 {
